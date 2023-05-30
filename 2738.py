@@ -1,3 +1,5 @@
+# 2차원 배열 선언 시의 얕은 복사✅
+
 n, m = map(int, input().split())
 
 a = [[0 for j in range(m)] for i in range(n)]
